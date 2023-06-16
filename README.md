@@ -1,14 +1,14 @@
 ![MasterHead](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)
 
+
 <h1 align="center">Hi 👋, I'm Arpan Chowdhury</h1>
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apu52&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apu52" alt="apu52" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arpan_chowdhury" target="blank"><img src="https://img.shields.io/twitter/follow/arpan_chowdhury?logo=twitter&style=for-the-badge" alt="arpan_chowdhury" /></a> </p>
 
 - I'm now working on **Portfolio**
 
@@ -26,10 +26,8 @@
 
 - ⚡ Fun fact **I'm also a Guitarist & sketch drawing enthusiast**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://twitter.com/arpan_chowdhury" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpan_chowdhury" height="30" width="40" /></a>
-<a href="https://discord.gg/Apu's Corner#5418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Apu's Corner#5418" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

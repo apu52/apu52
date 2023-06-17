@@ -39,4 +39,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apu52&" alt="apu52" /></p>
 <h4 align="left">My Hactoberfest 2022 Badges:</h4>
+
 [![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan001)](https://holopin.io/@arpan001)

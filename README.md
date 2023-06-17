@@ -38,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apu52&show_icons=true&locale=en" alt="apu52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apu52&" alt="apu52" /></p>
+[![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan001)](https://holopin.io/@arpan001)

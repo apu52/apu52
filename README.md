@@ -12,7 +12,7 @@
 
 - I'm now working on **Portfolio**
 
-- 🌱 I’m currently perusing as a student **Netaji Subhas Engineering College**
+- 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College**
 
 - I'm now in a open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/)
 

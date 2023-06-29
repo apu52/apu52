@@ -22,8 +22,6 @@
 
 - 📫 How to reach me **arpanchowdhury003@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/ARPAN/Downloads/Resume-Arpan-Chowdhury%20(4).pdf](file:///C:/Users/ARPAN/Downloads/Resume-Arpan-Chowdhury%20(4).pdf)
-
 - ⚡ Fun fact **I'm also a Guitarist & sketch drawing enthusiast**
 
 <h3 align="left">Connect with me:</h3>

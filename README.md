@@ -1,9 +1,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arpan+aka apu52....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;uThis+is+Arpan+AKAapu52....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
+
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 
 ![MasterHead](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)

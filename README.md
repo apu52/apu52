@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arpan Chowdhury</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Arpan+aka apu52....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 
 ![MasterHead](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)
@@ -8,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apu52&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apu52" alt="apu52" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=apu52&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - I'm now working on **Portfolio**
 

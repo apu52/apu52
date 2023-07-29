@@ -7,7 +7,9 @@
 
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 
-![MasterHead](https://img.etimg.com/thumb/msid-84146056,width-1200,height-900,imgsize-638053,resizemode-8/20210706_developer-economy_01.jpg)
+![gitartwork](gitartwork.svg)
+
+
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 

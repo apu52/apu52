@@ -79,8 +79,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=apu52&theme=synthwave-84&true&hide_border=true" />
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <details>
   <summary> <b> ❤️ Github Followers </b> </summary>
     <img src="https://github.com/apu52/apu52/blob/main/metrics.plugin.people.followers.svg" />

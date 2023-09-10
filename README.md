@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College**
 
-- I'm now in a open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/)
+- I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) & **SSOC**
 
 - 🤝 I’m looking for help with [My YouTube Channel(Apu's Corner)](https://www.youtube.com/channel/UCfizmZAK3iaw6jt6-BTWrUw)
 

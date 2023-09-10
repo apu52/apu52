@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apu52&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
 
-- I'm now working on **Portfolio**
+- I'm now working on **Various front-end projects & on myself**
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College**
 

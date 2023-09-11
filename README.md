@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College**
 
-- I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) & **SSOC**
+- I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC**
 
 - Winner of Portfolio Web design competition organised by MULEARN GCEK 🏆
 

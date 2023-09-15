@@ -23,6 +23,8 @@
 - I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC**
 
 - Winner of Portfolio Web design competition organised by MULEARN GCEK 🏆
+  
+- - Winner of Hackathon Raffle organised by Refine Dev 🏆
 
 - 💬 Ask me about **HTML,CSS, Digital Marketing**
 

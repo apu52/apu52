@@ -24,7 +24,7 @@
 
 - Winner of Portfolio Web design competition organised by MULEARN GCEK 🏆
   
-- - Winner of Hackathon Raffle organised by Refine Dev 🏆
+- Winner of Hackathon Raffle organised by Refine Dev 🏆
 
 - 💬 Ask me about **HTML,CSS, Digital Marketing**
 

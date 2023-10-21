@@ -106,7 +106,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 
-<h4 align="left">My Hactoberfest 2022 Badges:</h4>
+<h4 align="left">My Hactoberfest 2022 & 2023 Badges:</h4>
 
 
 [![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan001)](https://holopin.io/@arpan001)

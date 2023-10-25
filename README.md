@@ -59,9 +59,6 @@
   <td align="center">
     <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=apu52&theme=synthwave" />
   </td>
-  <td align="center">
-    <img src="https://github.com/apu52/apu52/blob/main/metrics.plugin.isocalendar.svg" />
-  </td>
 </tr>
 </table>
 

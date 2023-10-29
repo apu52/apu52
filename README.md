@@ -87,17 +87,17 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <details>
   <summary> <b> ❤️ Github Followers </b> </summary>
-    <img src="https://github.com/apu52/blob/main/metrics.plugin.people.followers.svg" />
+    <img src="https://github.com/apu52/README.md/blob/main/metrics.plugin.people.followers.svg" />
 </details>   
 
 <details>
   <summary> <b> 🦾 Github Achievements </b> </summary>
-    <img src="https://github.com/apu52/blob/main/metrics.plugin.achievements.svg" />
+    <img src="https://github.com/apu52/README.md/blob/main/metrics.plugin.achievements.svg" />
 </details>
 
 <details>
   <summary> <b> 📆 Github Contribution Calendar </b></summary>
-    <img src="https://github.com/apu52/blob/main/github-metrics.svg" />
+    <img src="https://github.com/apu52/README.md/blob/main/github-metrics.svg" />
 </details>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

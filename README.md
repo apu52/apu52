@@ -16,8 +16,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apu52&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
 
-- I'm now working as a MENTOR in **CODEPEAK'23 & KWOC'23** 👨‍💻
-- I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** 👨‍💻
+- I'm now working as a MENTOR in  **JWOC'23** 👨‍💻
+- I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** , **CODEPEAK'23 & KWOC'23** 👨‍💻
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻
 

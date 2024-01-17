@@ -9,14 +9,14 @@
 
 ![gitartwork](gitartwork.svg)
 
-
-
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/apu52/count.svg" />
 </p>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+
+
 
 <p align="left">  </p>
 

@@ -13,8 +13,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/apu52/count.svg" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apu52&label=Profile%20views&color=0e75b6&style=flat" alt="apu52" /> </p>
+<p align="left">  </p>
 
 - I'm now working as a MENTOR in  **JWOC'23** 👨‍💻
 - I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** , **CODEPEAK'23 & KWOC'23** 👨‍💻
@@ -30,7 +34,7 @@
 
 - 💬 Ask me about **HTML,CSS, Digital Marketing**
 
-- 📫 How to reach me **arpanchowdhury003@gmail.com**
+- 📫 How to reach me <a href="mailto:arpanchowdhury003@gmail.com">![Static Badge](https://img.shields.io/badge/arpanchowdhury003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Aarpanchowdhury003%40gmail.com)</a>
 
 - ⚡ Fun fact **I'm also a Guitarist & sketch drawing enthusiast**
 
@@ -43,6 +47,9 @@
 <a href="https://auth.geeksforgeeks.org/user/arpanchowgrwe/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arpanchowgrwe" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCfizmZAK3iaw6jt6-BTWrUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Apu's Corner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpanchowdhury02?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Arpan Chowdhury" height="30" width="40" /></a>
+<a href="https://leetcode.com/ArpanChowdhury/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+</a>
 </p>
 
 
@@ -63,6 +70,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+</div>
 
 ## 💫 Github Stats
 

@@ -20,8 +20,8 @@
 
 <p align="left">  </p>
 
-- I'm now working as a MENTOR in  **JWOC'23** 👨‍💻
-- I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** , **CODEPEAK'23 & KWOC'23** 👨‍💻
+- I'm now working on my own Projects   👨‍💻
+- I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** ,**JWOC'23** ,  **CODEPEAK'23 & KWOC'23** 👨‍💻
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻
 

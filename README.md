@@ -32,7 +32,7 @@
 - Winner of **Hackathon Raffle** organised by *Refine Dev* 🏆
 - Winner of **HACKSQUAD** organised by *NOVU* 🏆
 
-- 💬 Ask me about **HTML,CSS, Digital Marketing**
+- 💬 Ask me about **Typescript,Python,C++,Javascript, Digital Marketing**
 
 - 📫 How to reach me <a href="mailto:arpanchowdhury003@gmail.com">![Static Badge](https://img.shields.io/badge/arpanchowdhury003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Aarpanchowdhury003%40gmail.com)</a>
 

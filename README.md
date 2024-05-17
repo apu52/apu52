@@ -24,10 +24,14 @@
 - I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** ,**JWOC'23** ,  **CODEPEAK'23 & KWOC'23** 👨‍💻
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻
+- **Top Contributor is SWOC'24**🏆
+- **Top Mentor in JWOC'23**🏆
 
 - I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC**
 
 - Winner of **Portfolio Web design competition** organised by *MULEARN GCEK* 🏆
+- Finalist of **Smart Bengal hackathon 2024** 👨‍💻
+
   
 - Winner of **Hackathon Raffle** organised by *Refine Dev* 🏆
 - Winner of **HACKSQUAD** organised by *NOVU* 🏆

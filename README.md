@@ -123,7 +123,7 @@
 
 
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -135,7 +135,7 @@
 </div>
 <br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
 <h4 align="left">My Hactoberfest 2022 & 2023 Badges:</h4>
 
@@ -143,4 +143,15 @@
 [![An image of @arpan001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpan001)](https://holopin.io/@arpan001)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ArpanChowdhury?theme=unicorn&font=Josefin%20Slab&ext=heatmap)
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+# ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 

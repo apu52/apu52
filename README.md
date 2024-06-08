@@ -52,7 +52,7 @@
 <a href="https://www.youtube.com/channel/UCfizmZAK3iaw6jt6-BTWrUw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Apu's Corner" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/arpanchowdhury02?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Arpan Chowdhury" height="30" width="40" /></a>
 <a href="https://leetcode.com/ArpanChowdhury/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
 </a>
 <a href="https://www.instagram.com/anuragbasu1973/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:arpanchowdhury003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

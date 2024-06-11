@@ -20,7 +20,7 @@
 
 <p align="left">  </p>
 
-- I'm now working as PROJECT ADMIN **@GSSOC 2k24**   👨‍💻
+- I'm now working as PROJECT ADMIN **@GSSOC 2k24** &  **@SSOC 2k24** 👨‍💻
 - I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** ,**JWOC'23** ,  **CODEPEAK'23 & KWOC'23** 👨‍💻
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻

@@ -20,17 +20,19 @@
 
 <p align="left">  </p>
 
-- I'm now working as PROJECT ADMIN **@GSSOC 2k24** &  **@SSOC 2k24** 👨‍💻
+- I'm now working as PROJECT ADMIN **@GSSOC 2k24** &  **@SSOC 2k24** & **VSOC'24** 👨‍💻
 - I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** ,**JWOC'23** ,  **CODEPEAK'23 & KWOC'23** 👨‍💻
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻
 - **Top Contributor is SWOC'24**🏆
 - **Top Mentor in JWOC'23**🏆
+- **Top Contributor is APERTRE'23**🏆
 
-- I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC**
+- I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC'23**
 
 - Winner of **Portfolio Web design competition** organised by *MULEARN GCEK* 🏆
 - Finalist of **Smart Bengal hackathon 2024** 👨‍💻
+- Finalist of **Hack 4 Bengal(H4B) 2024** 👨‍💻
 
   
 - Winner of **Hackathon Raffle** organised by *Refine Dev* 🏆
@@ -40,7 +42,7 @@
 
 - 📫 How to reach me <a href="mailto:arpanchowdhury003@gmail.com">![Static Badge](https://img.shields.io/badge/arpanchowdhury003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Aarpanchowdhury003%40gmail.com)</a>
 
-- ⚡ Fun fact **I'm also a Guitarist & sketch drawing enthusiast**
+- ⚡ Fun fact **I'm also a Guitarist** 🎸 & **sketch drawing enthusiast** ✏️ & always like to be a **dreamer**🌙 & a **traveller of the universe** 🌍 
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

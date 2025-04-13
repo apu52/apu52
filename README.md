@@ -20,23 +20,27 @@
 
 <p align="left">  </p>
 
-- I'm now working as PROJECT ADMIN **@GSSOC 2k24** &  **@SSOC 2k24** & **VSOC'24** 👨‍💻
+-Looking For Internships & Freelancing Oppourtunities
+- Now Working as a Community Lead **NOOBUILD** Community
+- I HAVE worked as an **Intern** under **Wadwani Foundation & IRCTC** 👨‍💻
 - I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** ,**JWOC'23** ,  **CODEPEAK'23 & KWOC'23** 👨‍💻
 
 - 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻
+- **Top Project Admin @GSSOC'24 & GSSOC'24 Extended'24**🏆
 - **Top Contributor is SWOC'24**🏆
 - **Top Mentor in JWOC'23**🏆
 - **Top Contributor is APERTRE'23**🏆
 
 - I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC'23**
 
+- Runners up **NLP HACKATHON  2025** Hackathon organized by IIT KGP 🏆
+- 2nd Runners up **AI HACKATHON 2025** Hackathon organized by IIT KGP 🏆
+- Runners up **SPARKHACK 2025** Hackathon organized by JU 🏆
 - Winner of **Portfolio Web design competition** organised by *MULEARN GCEK* 🏆
 - Finalist of **Smart Bengal hackathon 2024** 👨‍💻
-- Finalist of **Hack 4 Bengal(H4B) 2024** 👨‍💻
-
-  
+- Finalist of **Hack 4 Bengal(H4B) 2024** 👨‍💻  
 - Winner of **Hackathon Raffle** organised by *Refine Dev* 🏆
-- Winner of **HACKSQUAD** organised by *NOVU* 🏆
+- Winner of **HACKSQUAD** organised by *NOVU* 🏆 _(Worldwide Rank -22)_
 
 - 💬 Ask me about **Typescript,Python,C++,Javascript, Digital Marketing**
 

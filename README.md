@@ -14,39 +14,83 @@
   <img src="https://profile-counter.glitch.me/apu52/count.svg" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<!-- Coding GIF: right-aligned -->
+<p align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Coding" width="400"/>
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hey!+I'm+Arpan+Chowdhury+%F0%9F%91%8B;Frontend+Dev+%7C+Open+Source+Contributor+%7C+Mentor+%7C+Tech+Leader;Hackathon+Addict+%7C+Dreamer+%7C+Universe+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
+</p>
+
+---
+
+> 🚀 **"Building tech with passion, mentoring with love, and dreaming beyond stars..."**
+
+---
+
+### ⚡ About Me
+
+```yaml
+Full Name: Arpan Chowdhury
+Current Role: Student @ Netaji Subhas Engineering College
+Open For: Frontend Internships | Freelance Projects
+Leadership:
+  - 👨‍💼 President, GNX (CSE Tech Club)
+  - 🧠 Lead, PeerHub x NSEC Student Chapter
+  - 🌐 Member, IEEE Computer Society NSEC
+Community:
+  - 🚀 Lead, NOOBUILD Community
+Hobbies:
+  - 🎸 Guitarist
+  - ✏️ Sketch Artist
+  - 🌙 Star Gazer & Universe Traveller 
+
+```
+
+🏆 Achievements
+<table> <tr><td>🥇 Winner</td><td>Hack4Bengal 2025 (Eastern India's Biggest Hackathon)</td></tr> <tr><td>🥈 Runners-Up</td><td>NLP Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>🥉 2nd Runners-Up</td><td>AI Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>⚡ Runners-Up</td><td>SparkHack 2025 – Jadavpur University</td></tr> <tr><td>🎨 Winner</td><td>Portfolio Design – MuLearn GCEK</td></tr> <tr><td>🔥 Winner</td><td>HackSquad by NOVU (🌍 World Rank #22)</td></tr> <tr><td>🎁 Winner</td><td>Refine.dev Hackathon Raffle</td></tr> <tr><td>🌐 Finalist</td><td>Hack4Bengal 2024 | Smart Bengal Hackathon</td></tr> </table>
+
+```yaml
+
+🌍 Open Source Highlights
+
+✨ Top Project Admin: GSSOC'24 & GSSOC Extended'24
+🌟 Top Contributor: SWOC'24 | APERTRE'23
+🥇 Top Mentor: JWOC'23
+🧠 Project Mentor: OSEN, JWOC'23, CodePeak'23, Hacktoberfest'23, KWOC'23
+🌱 Contributor: GSSOC (Rank 85), SSOC'23
+
+```
+
+
+🧠 My Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=typescript,python,cpp,js,html,css,figma,react,nodejs" /> </div>
+
+```yaml
+
+💻 Focused on: Frontend, TypeScript, UI/UX
+
+📢 Extra: Digital Marketing, Branding, Web Animations
 
 
 
-<p align="left">  </p>
+🎸 Fun Things About Me
+🎨 I design interfaces like I sketch ✏️
+🎵 I write code with music in my ears 🎧
+🌌 I'm a daydreamer with a telescope lens 🔭
+🧳 Forever curious & in love with cosmic travel 🚀
 
--Looking For Internships & Freelancing Oppourtunities
-- Now Working as a Community Lead **NOOBUILD** Community
-- I HAVE worked as an **Intern** under **Wadwani Foundation & IRCTC** 👨‍💻
-- I have already worked as a project mentor in **OSEN(Collab-code Carnival)** & **HACTOBERFEST'23** ,**JWOC'23** ,  **CODEPEAK'23 & KWOC'23** 👨‍💻
+```
 
-- 🌱 I’m currently perusing as a student at **Netaji Subhas Engineering College** 👨‍💻
-- **Top Project Admin @GSSOC'24 & GSSOC'24 Extended'24**🏆
-- **Top Contributor is SWOC'24**🏆
-- **Top Mentor in JWOC'23**🏆
-- **Top Contributor is APERTRE'23**🏆
+📫 Let's Connect!
+<p align="left"> <a href="mailto:arpanchowdhury003@gmail.com"> <img src="https://img.shields.io/badge/-arpanchowdhury003%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/arpan-chowdhury-775294251/"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> <a href="https://github.com/apu52"> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" /> </a> </p>
 
-- I have participated in two open source contribution programme [GirlScript Summer of Code](https://gssoc.girlscript.tech/) Rank - 85 & **SSOC'23**
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/> </p> 
 
-- Runners up **NLP HACKATHON  2025** Hackathon organized by IIT KGP 🏆
-- 2nd Runners up **AI HACKATHON 2025** Hackathon organized by IIT KGP 🏆
-- Runners up **SPARKHACK 2025** Hackathon organized by JU 🏆
-- Winner of **Portfolio Web design competition** organised by *MULEARN GCEK* 🏆
-- Finalist of **Smart Bengal hackathon 2024** 👨‍💻
-- Finalist of **Hack 4 Bengal(H4B) 2024** 👨‍💻  
-- Winner of **Hackathon Raffle** organised by *Refine Dev* 🏆
-- Winner of **HACKSQUAD** organised by *NOVU* 🏆 _(Worldwide Rank -22)_
 
-- 💬 Ask me about **Typescript,Python,C++,Javascript, Digital Marketing**
 
-- 📫 How to reach me <a href="mailto:arpanchowdhury003@gmail.com">![Static Badge](https://img.shields.io/badge/arpanchowdhury003%40gmail.com-red?logo=gmail&logoColor=white&link=mailto%3Aarpanchowdhury003%40gmail.com)</a>
-
-- ⚡ Fun fact **I'm also a Guitarist** 🎸 & **sketch drawing enthusiast** ✏️ & always like to be a **dreamer**🌙 & a **traveller of the universe** 🌍 
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />

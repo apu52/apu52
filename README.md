@@ -39,7 +39,7 @@ Open For: Frontend Internships | Freelance Projects
 Leadership:
   - 👨‍💼 President, GNX (CSE Tech Club)
   - 🧠 Lead, PeerHub x NSEC Student Chapter
-  - 🌐 Member, IEEE Computer Society NSEC
+  - 🌐 Secretary, IEEE Computer Society NSEC CS Society
 Community:
   - 🚀 Lead, NOOBUILD Community
 Hobbies:
@@ -50,7 +50,7 @@ Hobbies:
 ```
 
 🏆 Achievements
-<table> <tr><td>🥇 Winner</td><td>Hack4Bengal 2025 (Eastern India's Biggest Hackathon)</td></tr> <tr><td>🥈 Runners-Up</td><td>NLP Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>🥉 2nd Runners-Up</td><td>AI Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>⚡ Runners-Up</td><td>SparkHack 2025 – Jadavpur University</td></tr> <tr><td>🎨 Winner</td><td>Portfolio Design – MuLearn GCEK</td></tr> <tr><td>🔥 Winner</td><td>HackSquad by NOVU (🌍 World Rank #22)</td></tr> <tr><td>🎁 Winner</td><td>Refine.dev Hackathon Raffle</td></tr> <tr><td>🌐 Finalist</td><td>Hack4Bengal 2024 | Smart Bengal Hackathon</td></tr> </table>
+<table> <tr><td>🥇 Winner</td><td>Hack4Bengal 2025 (Eastern India's Biggest Hackathon)</td></tr><tr><td>🥇 TOP 10</td><td>PRAGATI META AI HACKATHON 2025</td></tr><tr><td>🥇 Winner</td><td>Hacksynthesis UEM 2025 </td></tr> <tr><td>🥈 Runners-Up</td><td>NLP Hackathon 2025 – IIT Kharagpur</td></tr><tr><td>🥈 Runners-Up</td><td>SIH Runners UP College 2025</td><tr><td>🥈 TOP 8</td><td>SIH TOP 8 AIR 2025</td></tr> <tr><td>🥉 2nd Runners-Up</td><td>AI Hackathon 2025 – IIT Kharagpur</td></tr> <tr><td>⚡ Runners-Up</td><td>SparkHack 2025 – Jadavpur University</td></tr> <tr><td>🎨 Winner</td><td>Portfolio Design – MuLearn GCEK</td></tr> <tr><td>🔥 Winner</td><td>HackSquad by NOVU (🌍 World Rank #22)</td></tr> <tr><td>🎁 Winner</td><td>Refine.dev Hackathon Raffle</td></tr> <tr><td>🌐 Finalist</td><td>Hack4Bengal 2024 | Smart Bengal Hackathon</td></tr> </table>
 
 ```yaml
 

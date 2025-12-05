@@ -175,17 +175,13 @@ Hobbies:
 
 </div>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" align="center" alt="Hear-No-Evil Monkey" width="60" height="60" />
-  <h2>🐍Snake Eating My Contributions🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/apu52/apu52/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 
 
 
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=apu52&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+ 
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=apu52&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   
  

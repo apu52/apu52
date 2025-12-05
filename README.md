@@ -176,9 +176,12 @@ Hobbies:
 
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=apu52&layout=compact&theme=highcontrast" alt="apu52" />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?user=apu52&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=apu52&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=apu52&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  
+ 
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apu52&theme=radical" alt="apu52" /></p>
 

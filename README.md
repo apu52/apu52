@@ -173,6 +173,14 @@ Hobbies:
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+</div>
+
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hear-No-Evil%20Monkey.png" align="center" alt="Hear-No-Evil Monkey" width="60" height="60" />
+  <h2>🐍Snake Eating My Contributions🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/apu52/apu52/output/github-contribution-grid-snake.svg" />
+</div>
+
 
 
 
@@ -185,7 +193,7 @@ Hobbies:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apu52&theme=radical" alt="apu52" /></p>
 
-
+![](https://github-contributor-stats.vercel.app/api?username=apu52&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">

@@ -7,7 +7,9 @@
 
 <h3 align="center">An aspirant of Full stack Web Developer</h3>
 
+
 ![gitartwork](gitartwork.svg)
+
 
 <p align="center"> 
   Visitor count<br>
@@ -26,7 +28,7 @@
 
 ---
 
-> 🚀 **"Building tech with passion, mentoring with love, and dreaming beyond stars..."**
+ 🚀 **"Building tech with passion, mentoring with love, and dreaming beyond stars..."**
 
 ---
 
@@ -174,9 +176,9 @@ Hobbies:
 
 
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apu52&layout=compact&theme=highcontrast" alt=apu52 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?user=apu52&layout=compact&theme=highcontrast" alt="apu52" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=apu52&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?user=apu52&show_icons=true&locale=en&theme=highcontrast" alt="apu52" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apu52&theme=radical" alt="apu52" /></p>
 

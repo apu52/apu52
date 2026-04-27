@@ -40,11 +40,12 @@ Current Role: Student @ Netaji Subhas Engineering College
 Open For: Frontend Internships | Freelance Projects
 Internship:
   - 👨‍💼 Wadhwani Foundation
-  - 🧠 IRCTC
   - 🌐 Websoftrechs PVT. LTD.
   - 🌐 Techno India Group 
   - 🌐 D2 Digi Tech
   - 🌐 Zycruith LLP ( Startup SDE I)
+  - 🌐 Springer Capital (Frontend SDE Intern )
+
 Leadership:
   - 👨‍💼 President, GNX (CSE Tech Club)
   - 🧠 Lead, PeerHub x NSEC Student Chapter
